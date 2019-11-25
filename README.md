@@ -3,7 +3,7 @@ Repository of the public version of Archlight Bot. There will be a paid version 
 
 Archlight bot works perfectly on any screen, any windows, and out of the box without installation of dependent software.
 
-Works 100% on any version of Archlight as long as I update it to the newwer version. Most likely it will work 100% with Archlight's newer client version 2.0 after minor tweaks based on the new client. 
+Most likely it will work 100% with Archlight's newer client version 2.0 after minor tweaks based on the new client. Based on requests I can also modify the bot to work on other clients!
 
 Features:
 Free Version:
