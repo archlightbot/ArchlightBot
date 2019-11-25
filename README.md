@@ -8,7 +8,7 @@ Free Version:
 - [x] Simple Cavebot
   - [x] Save and Load Cavebot up to 10 Profiles
   - [x] Auto-play cavebot profiles
-- [x] Automatically solve !ME's up to 50 times.
+- [x] Automatically solve !ME's up to 500 times.
 
 Pro Version:
 - [x] Advanced Cavebot
