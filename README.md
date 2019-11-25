@@ -3,6 +3,8 @@ Repository of the public version of Archlight Bot. There will be a paid version 
 
 Archlight bot works perfectly on any screen, any windows, and out of the box without installation of dependent software.
 
+Works 100% on any version of Archlight as long as I update it to the newwer version.
+
 Features:
 Free Version:
 - [x] Simple Cavebot
