@@ -1,7 +1,7 @@
 # ArchlightBot
 Repository of the public version of Archlight Bot. There will be a paid version of the bot that will have way more features designed only for Archlight!
 
-Archlight bot works perfectly on any screen and windows version.
+Archlight bot works perfectly on any screen, any windows, and out of the box without installation of dependent software.
 
 Features:
 Free Version:
